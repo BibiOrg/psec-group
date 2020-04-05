@@ -1372,7 +1372,7 @@ section#clients .section-title p{
 }
 
 .about_bg{
-  background-image:linear-gradient(rgba(39, 0, 255, 0.3), rgba(1, 1, 19,0.45)),url('../img/about/skyline.webp');
+  background-image:linear-gradient(rgba(39, 0, 255, 0.3), rgba(1, 1, 19,0.45)),url('../img/about/skyline.jpg');
   width:100%;
   height:500px;
   background-size: cover;
@@ -1380,7 +1380,7 @@ section#clients .section-title p{
 }
 
 section#hero.main_bg{
-  background-image:linear-gradient(rgba(39, 0, 255, 0.3), rgba(1, 1, 19,0.45)),url('../img/about/city-skyline.webp');
+  background-image:linear-gradient(rgba(39, 0, 255, 0.3), rgba(1, 1, 19,0.45)),url('../img/about/city-skyline.jpg');
   width:100%;
   height:500px;
   background-size: cover;
