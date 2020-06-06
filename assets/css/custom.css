@@ -1393,3 +1393,8 @@ section#hero.main_bg{
   align-items: center;
   justify-content: center;
 }
+
+.providers_logo{
+  width: 200px;
+  margin-top: 30px;
+}
